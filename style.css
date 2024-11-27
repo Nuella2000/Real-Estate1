@@ -1,0 +1,10 @@
+body {
+    background-color: #0c4d6e;
+}
+  
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.links a{}
